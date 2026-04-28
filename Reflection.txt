@@ -1,0 +1,17 @@
+I gave ChatGPT the following prompt: "Create an 'About Me' section for a portfolio website using HTML and CSS only (no JavaScript). It should include:
+- A profile photo on the left (use a placeholder image for now)
+- My name as a heading 
+- A short bio paragraph
+- A list of 4 skills displayed as tags/badges
+- Use "lorem ipsum" instead of my information and I can enter that in later.
+
+Make it responsive - should stack vertically on mobile. Use a modern, clean design with a light color scheme. Add comments explaining the CSS."
+
+It turned out surprisingly well and was organized neatly.
+What I did next was ask it to change the color scheme to my liking, instead of mostly white I wanted cooler and less brighter colors with a warm color for the skill tags.
+This is the prompt I gave it: "I like it so far, do you think you can change the color scheme to something cooler like lavender and have small things like the tags utilize a warmer color?"
+
+It handed back a slight color change, although I wanted to change a few things like the accent color so I manually changed it myself to something more closer to red.
+for the last prompt I asked: "can you make the fonts feel more like retro but modern?"
+
+I was pretty much satisfied with how it turned out so I went ahead and placed in the remaining information myself and updated the placeholder photo with one of mine.
